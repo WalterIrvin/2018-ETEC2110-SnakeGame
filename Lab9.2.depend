@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1524284664 source:c:\users\skynet\documents\codeblocksprojects\lab9.2\apple.cpp
+	"lab9.2.hpp"
+
+1524353918 c:\users\skynet\documents\codeblocksprojects\lab9.2\lab9.2.hpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_ttf.h>
+	<vector>
+
+1524353892 source:c:\users\skynet\documents\codeblocksprojects\lab9.2\board.cpp
+	"lab9.2.hpp"
+
+1524353662 source:c:\users\skynet\documents\codeblocksprojects\lab9.2\lab9.2.cpp
+	"lab9.2.hpp"
+
+1524349527 source:c:\users\skynet\documents\codeblocksprojects\lab9.2\snake.cpp
+	"lab9.2.hpp"
+
+1524262707 source:c:\users\skynet\documents\codeblocksprojects\lab9.2\piece.cpp
+	"lab9.2.hpp"
+
